@@ -1,0 +1,40 @@
+OS: Artix Linux x86_64
+Resolution: 2560x1440@165, 1920x1080@60
+Shell: bash
+Terminal: Alacritty
+Tiling Script: Krohnkite (default config), for Tiling with animations you use Geometry Change desktop effect
+Theme: Breeze Dark
+Icon Theme: Breeze
+Cursor: Breeze 24px
+DE: KDE Plasma 6.6
+Clock widget: KDE Modern Clock;
+  Day ;
+    Show day = yes
+    font size 72
+    letter spacing 17
+    font color #ffffff
+  Date ;
+    Show date = yes
+    font size 19
+    letter spacing 3
+    date format dd MMM yyyy
+    font color #ffffff
+  Time ;
+  Show time = yes
+  font size 19
+  letter spacing 3
+  use 24 hour format = yes
+  style character -
+  font color #ffffff
+Driver: nvidia-open-dkms
+Kernel: linux-zen
+Fetch: Fastfetch
+Image viewer: Mirage
+Media player: mpv
+font: JetBrains Mono
+Terminal font: JetBrains Mono
+Image editor: GIMP
+video editor: Kdenlive
+Video recorder: OBS
+File explorer: nemo
+Browser: Brave
